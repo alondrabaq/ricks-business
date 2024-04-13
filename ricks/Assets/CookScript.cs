@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CookScript : MonoBehaviour
 {
-    public RigidBody2D rigbod;
+    public Rigidbody2D rigbod;
     public float moveSpeed;
 
     // Start is called before the first frame update
