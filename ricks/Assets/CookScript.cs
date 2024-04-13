@@ -14,7 +14,7 @@ public class CookScript : MonoBehaviour
         ProcessInputs();   
     }
 
-    void FixedUpdates()
+    void FixedUpdate()
     {
         Move();
     }
