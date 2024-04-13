@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: trashminigame
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 5b7c174a40c2d48c4871503486597814, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 57a5bb31e1e3c48c2b8c387a4576a7f2, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 080743b6c835d427483c0c44a546571c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 44f234ab47c064f24836da9d2750a44a, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
